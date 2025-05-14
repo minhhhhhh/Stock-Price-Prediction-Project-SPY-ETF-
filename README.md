@@ -67,10 +67,10 @@ cd stock-price-prediction
 ## Example Output
 
 ### Closing Price Trend
-![Trend Plot](https://via.placeholder.com/800x400?text=Trend+Plot)
+![Trend Plot](https://github.com/user-attachments/assets/65f0829b-63c5-4206-8c96-ec9d962597e1)
 
 ### Model Loss Visualization
-![Loss Plot](https://via.placeholder.com/800x400?text=Loss+Plot)
+![Loss Plot](https://github.com/user-attachments/assets/72357d0c-4d0f-4bf6-97d5-2ef0d52af52e)
 
 ### Investment Return Calculation
 Example:
