@@ -31,7 +31,8 @@ cd stock-price-prediction
 
 ### Alpha Vantage API Setup
 1. Get a free API key from [Alpha Vantage](https://www.alphavantage.co/support/#api-key).
-2. Replace `API_KEY = "YOUR_API_KEY"` in the script with your key.
+2. The dataset will be accessed by the project through the API call, using the API key from Alpha Vantage
+3. Replace `API_KEY = "YOUR_API_KEY"` in the script with your key.
 
 ---
 
