@@ -34,6 +34,9 @@ cd stock-price-prediction
 2. The dataset will be accessed by the project through the API call, using the API key from Alpha Vantage
 3. Replace `API_KEY = "YOUR_API_KEY"` in the script with your key.
 
+### Here is a link from Yahoo Finance, that shows the SPYETF trends in real-time (Alpha Vantage is what provides us with the SPYETF Dataset)
+Link: https://finance.yahoo.com/quote/SPY/
+
 ---
 
 ## How to Run
